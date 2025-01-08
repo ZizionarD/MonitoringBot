@@ -10,7 +10,7 @@
 - Настраиваемое обновление информации о сервере
 - Если игровой сервер ОФФЛАЙН, то появляется соответствующее сообщение
 
-Настройка:\
+**Настройка:**\
 На **52 строке** указывается ссылка на ваш серервер в мониторинге сайта tsarvar.com\
 На **200 строке** настраивается подключение к серверу, ссылку саму не трогайте, меняете только IP сервера\
 На **208 строке** настраивается коллекция сервера, просто меняете ссылку на коллекцию, на свою
@@ -24,7 +24,7 @@ Discord is a bot that monitors the GMOD game server from the website tsarvar.com
 - Customizable update of server information
 - If the game server is OFFLINE, a corresponding message appears.
 
-Customization:\
+**Customization:**\
 The **52nd line** indicates a link to your server in site monitoring. tsarvar.com\
 On the **200 line**, the connection to the server is configured, do not touch the link itself, only change the server IP.\
 On **line 208**, the server collection is configured, just change the link to the collection to your own
